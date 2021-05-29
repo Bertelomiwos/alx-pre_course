@@ -2,4 +2,4 @@
 - 👀 I’m interested in Sofware Engineering
 - 🌱 I’m currently learning at ALX SE program
 - 💞️ I’m looking to collaborate on SE
-- 📫 You reach me Whatsap and Telegram with +251921723925
+- 📫 You reach me Whatsapp and Telegram with +251921723925
