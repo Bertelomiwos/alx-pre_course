@@ -1,2 +1,5 @@
-# alx-pre_course
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+- 👋 Hi, I’m @Bertelomiwos
+- 👀 I’m interested in Sofware Engineering
+- 🌱 I’m currently learning at ALX SE program
+- 💞️ I’m looking to collaborate on SE
+- 📫 You reach me Whatsap and Telegram with +251921723925
